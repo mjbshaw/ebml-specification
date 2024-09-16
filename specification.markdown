@@ -355,7 +355,7 @@ Table: Examples of determining the end of an Unknown-Sized Element
 For Element Data Sizes encoded at octet lengths from one to eight,
 [@tableVintRangePerLength] depicts the range of possible values 
 that can be encoded as an Element Data Size. An Element Data Size with an
-octet length of 8 is able to express a size of 2^(56)^-2 or
+octet length of 8 is able to express a size of 2^(56)-2 or
 72,057,594,037,927,934 octets (or about 72 petabytes). The maximum possible
 value that can be stored as Element Data Size is referred to as VINTMAX.
 
